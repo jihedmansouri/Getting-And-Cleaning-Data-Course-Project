@@ -9,7 +9,7 @@ Data set contains 180 observations for 68 variables. It was exported with a head
 # Variable description
 
 * subject_id
- * subject who performed the activity
+	* subject who performed the activity
  * Integer value, range from 1 to 30
 * activity
  * The performed activity name
